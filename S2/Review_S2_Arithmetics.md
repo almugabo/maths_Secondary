@@ -2,7 +2,7 @@
 
 X0. Type of numbers 
 
-X1. Revision: long division 
+X1. Number line and absolute value 
 
 X2. Factors, primes, multiples, lowest common multiple
 
