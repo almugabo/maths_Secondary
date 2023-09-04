@@ -22,9 +22,10 @@
 
 ### 6. Graphing on a Coordinate Plane & Graphing Linear Equations 
 - Understanding the X and Y axes.
-- Plotting points on a graph.
+- Plotting points on a graph (ordered pairs) 
 - The concept of a slope.
-- The slope-intercept form.
+- The slope-intercept form (linear equation)
+- *graphing non-linear equation*
 
 ### 7. Word Problems in Algebra
 - Translating word problems into algebraic expressions and equations.
