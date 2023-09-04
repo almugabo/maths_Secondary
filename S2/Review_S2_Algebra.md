@@ -25,11 +25,13 @@
 - Plotting points on a graph (ordered pairs) 
 - The concept of a slope.
 - The slope-intercept form (linear equation)
+- Interpreting and understanding the significance of the slope and intercept.
 - *graphing non-linear equation*
 
 ### 7. Word Problems in Algebra
 - Translating word problems into algebraic expressions and equations.
 - Solving word problems.
+
 
 
 
