@@ -2,15 +2,11 @@
 
 ## 1. Prerequisite - review Primary
 
-1.1 Addition Facts & Multiplication
+1.1 Four basic Operations : overview, terms and properties
 
-1.2 Place Value
+1.2 Perform the four basic Operations (column/long form & using decomposition)
 
-1.3 Four basic Operations : overview, terms and properties
-
-1.4 Perform the four basic Operations (column/long form & using decomposition)
-
-1.5 Rounding and estimation
+1.3 Rounding and estimation
 
 ## 2. Type of numbers
 
