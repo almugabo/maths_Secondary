@@ -58,7 +58,7 @@ This is a first review to also see what needs to be revisited
    
 6. Solve $V = \frac{1}{3} πr^2h$ for h.
    
-## Exercizes - 15/March/2024    
+## Exercizes - 16/March/2024    
 
 #### Square formulas 
 
@@ -83,6 +83,18 @@ $(a + b)(a - b) = a^2 - b^2$
 11. $(997)^2$ =
 13. $(2xy - 6y)(2xy + 6y)$  = 
 
+#### mix 
 
+1. $3x + 4 = 2x + 8$
+
+2.$5y - 2 = 3y + 4$
+
+3. $\frac{5}{8}m + \frac{1}{2} = \frac{7}{8}m - 1$
+
+4. $0.25p - 3 = 0.75p - 2$
+
+5. $\frac{6}{7}k - \frac{13}{14} = \frac{5}{7}k + \frac{1}{2}$
+
+6. $0.6a + 0.2 = 0.4a + 0.5$
 
 
