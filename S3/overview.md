@@ -57,3 +57,12 @@ Solve linear equations up to the form
 𝑎, 𝑏, 𝑐, 𝑑, 𝑒, 𝑓 and 𝑥 (unknown) are
 rational numbers.
 
+
+
+Link to Book: 
+
+https://my.cjfallon.ie/preview/student/34019/1
+
+https://lah.elearningontario.ca/CMS/public/exported_courses/SPH4C/exported/SPH4CU02/SPH4CU02/SPH4CU02A01/_content.html
+
+
