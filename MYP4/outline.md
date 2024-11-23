@@ -26,11 +26,13 @@ Three phases of learning:
 
 
 ## UNIT 0: pre-requisite 
-- Solving quadratic equations 
+- ?? 
 
 
-## UNIT 1: 1. In how many different ways can we express the same thing?
+## UNIT 1: In how many different ways can we express the same thing?
 *Numbers in different forms give us a variety of ways to predict patterns and think about problems of global significance.*
+
+### Number Representations and Algebraic Manipulations
 
 1. **Number Sets and Grouping**:
    - Overview of different forms and types of numbers, including natural numbers, integers, rational numbers, and real numbers.
@@ -65,8 +67,10 @@ Assessement 1 : List of topics:
 - Worksheet 5: Irrational numbers (Operations with surds) 
 
 
-## UNIT 2: 
+## UNIT 2: Why does algebra look so clever?
 *Finding and expressing things in common helps us to simplify and improve relationships.*
+### Algebraic Simplification and Equation Solving
+
   
 1. **Introduction to Algebraic Simplification and Relationships**:
    - Understanding algebra as a tool for simplifying and communicating mathematical relationships.
