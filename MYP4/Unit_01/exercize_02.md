@@ -18,7 +18,7 @@ Fill in the blanks below:
 | $\frac{3}{4}$ |                                      |         |                                                                                                                                                       |
 | $\sqrt{2}$    |                                      |         |                                                                                                                                                       |
 | $-7$          |                                      |         |                                                                                                                                                       |
-| $\ \pi $        |                                      |         |                                                                                                                                                       |
+| $\pi$        |                                      |         |                                                                                                                                                       |
 | $0 $          |                                      |         |                                                                                                                                                       |
 | $10$         |                                      |         |                                                                                                                                                       |
 | $-2.75$       |                                      |         |                                                                                                                                                       |
@@ -44,17 +44,17 @@ Determine if each statement is true or false. If true, explain why. If false, pr
 ## 3. Problem Solving
 
 **Question 1:**  
-The side length of a square is $\( \sqrt{7} \)$ units. Is the perimeter of the square a rational or irrational number? Explain your reasoning. What about the area?
+The side length of a square is $\sqrt{7}$ units. Is the perimeter of the square a rational or irrational number? Explain your reasoning. What about the area?
 
 **Question 2:**  
-A recipe calls for \( 2 \frac{1}{2} \) cups of flour. You only have a measuring cup that measures in thirds of a cup. How many thirds of a cup do you need? Explain your reasoning using the concepts of rational numbers.
+A recipe calls for $2\frac{1}{2}$ cups of flour. You only have a measuring cup that measures in thirds of a cup. How many thirds of a cup do you need? Explain your reasoning using the concepts of rational numbers.
 
 ---
 
 ## 4. Create a Venn Diagram
 
 **Task:**  
-Create a Venn Diagram that shows all number sets and their relationships. Use the following sets: Natural Numbers (\( \mathbb{N} \)), Whole Numbers (\( \mathbb{W} \)), Integers (\( \mathbb{Z} \)), Rational Numbers (\( \mathbb{Q} \)), Irrational Numbers (\( \mathbb{I} \)), Real Numbers (\( \mathbb{R} \)).
+Create a Venn Diagram that shows all number sets and their relationships. Use the following sets: Natural Numbers $\mathbb{N}$, Whole Numbers $\mathbb{W}$, Integers $\mathbb{Z}$, Rational Numbers $\mathbb{Q}$, Irrational Numbers $\mathbb{I}$, Real Numbers $\mathbb{R}$.
 
 ---
 
@@ -66,13 +66,13 @@ In English, the word "irrational" means "not logical or reasonable." Why do we c
 
 ## 6. Definitions and Examples of Number Sets
 
-For each of the following number sets, provide a definition and an example:
+For each of the following number sets, provide a definition, the symbol and an example:
 
-1. **Rational Numbers (\( \mathbb{Q} \))**  
-2. **Natural Numbers (\( \mathbb{N} \))**  
-3. **Whole Numbers (\( \mathbb{W} \))**  
-4. **Integers (\( \mathbb{Z} \))**  
-5. **Irrational Numbers (\( \mathbb{I} \))**
+1. **Rational Numbers**  
+2. **Natural Numbers**  
+3. **Whole Numbers )**  
+4. **Integers**  
+5. **Irrational Numbers**
 
 ---
 
@@ -80,10 +80,10 @@ For each of the following number sets, provide a definition and an example:
 
 Fill in the blanks for each question:
 
-1. A number that cannot be expressed as a ratio of two integers is called a(n) __________.  
-2. A number that has a repeating decimal pattern is called a(n) __________.  
-3. A number with a decimal that neither terminates nor repeats is called a(n) __________.  
-4. A number that has a positive or a negative sign is called a(n) __________.
+1. A number that cannot be expressed as a ratio of two integers is called __________.  
+2. A number that has a repeating decimal pattern is called  __________.  
+3. A number with a decimal that neither terminates nor repeats is called __________.  
+4. A number that has a positive or a negative sign is called  __________.
 
 
-This LaTeX-like markdown format is GitHub-compatible and should render properly if your repository supports MathJax for mathematical expressions.
+
