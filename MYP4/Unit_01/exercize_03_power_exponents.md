@@ -1,0 +1,84 @@
+
+# 2. Powers and Exponents
+
+## 1. Explain This
+- **Difference Between Powers:**  
+  - Explain the difference between $3^4$ and $4^3$ in your own words.
+- **Why Does $x^0 = 1$?**  
+  - Why does any number (except 0) raised to the power of 0 equal 1? Explain the reasoning.
+
+---
+
+## 2. Simplify and Explain
+Simplify each expression, showing your steps and stating which exponent rule you used for each step:
+
+- $x^5 \cdot x^3$  
+- $(y^2)^4$  
+- $\frac{a^6}{a^2}$  
+- $(2m^3n^2)^5$  
+- $\left(\frac{5^3}{5}\right)^2$
+
+---
+
+## 3. Evaluate
+Calculate the value of each expression:
+
+- $4^{-2}$  
+- $(-3)^0$  
+- $\left(\frac{1}{2}\right)^{-3}$  
+- $2^5 \cdot 2^{-3}$  
+- $(3^2)^{-1}$
+
+---
+
+## 4. True or False? Justify
+Are the following statements true or false? Explain your reasoning.
+
+* $2^{-3}$ is a negative number.  
+* Any number raised to a negative exponent is a fraction.
+
+---
+
+## 5. Rewrite and Evaluate
+- **Radical Notation:** Rewrite the following expressions using radical notation and evaluate:
+  - $9^{1/2}$  
+  - $8^{2/3}$  
+  - $16^{-1/4}$
+- **Fractional Exponents:** Rewrite the following expressions using fractional exponents:
+  - $\sqrt[3]{27}$  
+  - $\sqrt{5^3}$  
+  - $\frac{1}{\sqrt{x}}$
+
+---
+
+## 6. Simplify
+Simplify the following expressions, leaving your answer in exponent form with positive exponents:
+
+- $(x^{1/2})^4$  
+- $(y^{2/3})^{1/2}$  
+- $a^{-1/3} \cdot a^{2/3}$
+
+---
+
+## 7. Geometry Application
+The volume of a cube is given by the formula $V = s^3$, where $s$ is the side length.
+
+- **Find Side Length:**  
+  If a cube has a volume of 64 cubic units, what is its side length? Explain your process.
+- **Doubling Side Length:**  
+  If you double the side length of a cube, how does its volume change? Explain using exponents.
+
+---
+
+## 8. Comparing Growth
+Bacteria A doubles every hour, while Bacteria B triples every two hours.
+
+- **Exponential Growth Expressions:**  
+  Write expressions using exponents to represent the growth of each bacteria population after $t$ hours. (Hint: Think carefully about how to represent the tripling every two hours using exponents.)
+- **Compare Populations:**  
+  Which bacteria will have a larger population after 6 hours? Justify your answer.
+
+---
+
+## 9. Explain the Error
+A student simplified $(4x^2)^{-1}$ to $-4x^2$. Explain what the student did wrong and provide the correct simplification.
