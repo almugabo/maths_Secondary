@@ -94,41 +94,42 @@ Assessement 1 : List of topics:
    - Techniques for factorizing expressions with squares, including perfect square trinomials and difference of squares.
    - Applying these methods to solve specific types of quadratic equations.
 
-
-UNIT 3: **"Can You Walk the Line?"**
+## UNIT 3: Can You Walk the Line?
 *IN THIS CHAPTER, WE WILL ...*
-*Find out how algebra can be expressed visually, in geometry, and vice versa.*
-*Explore everyday problems which can be represented as a linear equation.*
+
+*- Find out how algebra can be expressed visually, in geometry, and vice versa.*
+
+*- Explore everyday problems which can be represented as a linear equation.*
 
 ### Exploring Linear Equations: Connecting Algebra and Geometry
 
-#### 1. **Introduction to Linear Equations**
+ 1. **Introduction to Linear Equations**
    - Concept of variables and constants
    - Single-variable equations vs. two-variable equations
    - Representation of solutions as ordered pairs
 
-#### 2. **The Cartesian Plane and Plotting Points**
+ 2. **The Cartesian Plane and Plotting Points**
    - Overview of the Cartesian coordinate system
    - Plotting ordered pairs
    - Formation of lines from plotted points
 
-#### 3. **Understanding Linear Equations**
+ 3. **Understanding Linear Equations**
    - Standard form: \( ax + by = c \)
    - Slope-intercept form: \( y = mx + c \)
    - Meaning and calculation of slope (gradient)
    - Identifying intercepts (\(x\)-intercept and \(y\)-intercept)
 
-#### 4. **Visualizing and Analyzing Graphs**
+ 4. **Visualizing and Analyzing Graphs**
    - Graphing linear equations manually
    - Using technology (Desmos, graphing calculators) for visualization
    - Exploring the impact of slope and intercept changes
 
-#### 5. **Applications of Linear Equations**
+ 5. **Applications of Linear Equations**
    - Real-life scenarios modeled with linear equations:
      - Cost calculations (e.g., movie tickets, lawn mowing)
      - Relationships (e.g., age differences, earnings)
 
-#### 6. **Simultaneous Equations**
+ 6. **Simultaneous Equations**
    - Definition and significance
    - Methods of solving:
      - Substitution
@@ -136,7 +137,7 @@ UNIT 3: **"Can You Walk the Line?"**
      - Graphical method
    - Real-life applications
 
-#### 7. **Extensions and Challenges**
+ 7. **Extensions and Challenges**
    - More complex linear systems (e.g., requiring scaling up equations)
    - Special cases (e.g., parallel lines with no intersection)
 
