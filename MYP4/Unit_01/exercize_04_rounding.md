@@ -27,6 +27,9 @@ Round each number to the specified number of significant figures:
 - **Why Do We Round Numbers?**  
   Give at least two real-world reasons for rounding.
 
+- **Why Consider Significant Figures?**  
+  Why is it important to consider significant figures when performing calculations in science and engineering?  
+
 ---
 
 ## 4. Measurement Scenario
@@ -40,8 +43,8 @@ Imagine you're measuring the length of a table with a ruler that only has markin
   
 - **Error Calculation:**  
   You then use a more precise measuring tape and find the table is actually $153.4$ cm long. If you round this to $153$ cm:  
-  - What is the absolute error?  
-  - What is the relative error?  
+  - What is the absolute error?  (actual measurement – approximate measurement)
+  - What is the relative error?  (absolute error / actual length)
 
 ---
 
@@ -60,9 +63,6 @@ A recipe calls for $2.345$ grams of salt. You only have a scale that measures to
 - **Perform a Calculation:**  
   Perform the following calculation: $12.34 \times 5.678$. What is the answer with the correct number of significant figures? Explain your reasoning.
 
-- **Why Consider Significant Figures?**  
-  Why is it important to consider significant figures when performing calculations in science and engineering?
-
 ---
 
 ## 7. Newspaper Headlines
@@ -76,4 +76,43 @@ Analyze the following (fictional) newspaper headlines and explain whether the ro
 
 - **Headline 3:** "Scientists Discover Planet Weighing $1,000,000$ kg"  
   (High level of uncertainty in the measurement)
+
+---
+
+## 8. Rounding in Financial Contexts
+- **Bank Balance Rounding:**  
+  Your bank balance is $125.5678$, but the bank rounds balances to the nearest cent. What will your balance display as, and why?  
+
+- **Rounding Interest Rates:**  
+  A bank advertises an interest rate of $3.4567\%$. Should they round it to $3.46\%$, $3.5\%$, or leave it as is? Explain how the choice of rounding might affect customer perception.  
+
+- **Cumulative Rounding Error:**  
+  If interest is calculated daily over a year and each day’s rounding introduces a $0.01$ error, how much cumulative error could result after a year?
+
+---
+
+## 9. Data Reporting in Surveys
+- **Population Survey:**  
+  A survey reports that $45.7\%$ of participants prefer online shopping. If the survey had $1,000$ participants, how many people does that represent? Round appropriately and explain your reasoning.
+
+- **Margin of Error:**  
+  The survey mentions a margin of error of $1.5\%$. Explain how rounding might affect the interpretation of the survey results.
+
+- **Appropriate Precision:**  
+  In a survey of $500$ people, is it reasonable to report results to $3$ decimal places (e.g., $45.678\%$)? Why or why not?
+
+---
+
+## 10. Rounding in Technology
+- **Software Calculations:**  
+  A computer program stores numbers as floating-point values and rounds them to $2$ decimal places for display. What potential issues could arise when performing multiple calculations with rounded values?
+
+- **Pixel Dimensions:**  
+  A graphic design tool rounds pixel dimensions to the nearest integer. If an image width is calculated as $10.7$ pixels, and height as $15.3$ pixels, what impact does rounding to $11$ and $15$ pixels have on the aspect ratio?
+
+- **Scientific Simulations:**  
+  A simulation rounds all inputs to $4$ significant figures. Discuss the potential trade-off between computational efficiency and accuracy in this scenario.
+
+---
+
 
