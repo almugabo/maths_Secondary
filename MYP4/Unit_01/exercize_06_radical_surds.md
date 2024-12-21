@@ -8,6 +8,19 @@
 
 ---
 
+## 2. Rules of urds 
+
+| Rule Number | Label                       | Rule                                   | Explanation                                    |
+|-------------|-----------------------------|---------------------------------------|------------------------------------------------|
+| 1           | Product of Surds           | $(\sqrt{a \times b} = \sqrt{a} \times \sqrt{b}\)$ | The square root of a product is the product of the square roots. |
+| 2           | Quotient of Surds          | $(\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}\)$ | The square root of a quotient is the quotient of the square roots. |
+| 3           | Square of a Surd           | $\((\sqrt{a})^2 = \sqrt{a} \times \sqrt{a} = a\)$ | Squaring a square root cancels the root and gives the original number. |
+| 4           | Addition/Subtraction of Like Surds | $(a\sqrt{c} \pm b\sqrt{c} = (a \pm b)\sqrt{c}\)$ | Like terms with the same surd can be added or subtracted by combining their coefficients. |
+
+
+----
+
+
 ## 2. Simplifying Simple Radicals
 Simplify the following radicals:
 
