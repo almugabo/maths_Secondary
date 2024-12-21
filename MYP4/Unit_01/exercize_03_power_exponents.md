@@ -1,6 +1,39 @@
 
 # 2. Powers and Exponents
 
+## 1. Knowing that the power of a number is repeated multiplication, out the rules of exponents
+
+| Rule | Name                     | Formula                          |
+|------|--------------------------|----------------------------------|
+| 1    | Product of Powers        | $(a^n \times a^m) =$             |
+| 2    | Quotient of Powers       | $(\frac{a^n}{a^m}) =$            |
+| 3    | Power of a Power         | $(a^m)^n = $                     |
+| 4    | Identity Exponent        | $a^1 = $                        |
+| 5    | Zero Exponent            | $a^0 =$                         |
+| 6    | Negative Exponent        | $a^{-n} = $                     |
+| 7    | Power of a Product       | $(a \cdot b)^n = $              |
+| 8    | Power of a Quotient      | $\left(\frac{a}{b}\right)^n =$  |
+
+
+---
+## 2. Terminology 
+
+In mathematics, define following terms 
+- Exponent (also called index)
+- Base 
+
+---
+
+## 3. Simplify and Explain
+Simplify each expression, showing your steps and stating which exponent rule you used for each step:
+
+- $x^5 \cdot x^3$  
+- $(y^2)^4$  
+- $\frac{a^6}{a^2}$  
+- $(2m^3n^2)^5$  
+- $\left(\frac{5^3}{5}\right)^2$
+
+
 ## 1. Explain This
 - **Difference Between Powers:**  
   - Explain the difference between $3^4$ and $4^3$ in your own words.
