@@ -1,22 +1,12 @@
 # Algebra - basic Operations 
 
-## 1. Collecting Like Terms
+## 1.Simplify the following expressions, showing all your steps and explaining the reasoning behind each step:
 
 1. $6x + 3x =$  
 2. $15m + (-5m) =$  
 3. $3x + 7x =$  
-4. $6 + x + 4 =$  
-5. $-2 + t + 10 =$  
-6. $5 + m + m + m =$  
-7. $7.6x + 4.8x =$  
-8. $-5 + x + x + 13 =$  
-9. $65n + 48n =$  
-10. $4x + 8y + 3x =$  
-11. $5y + 8y + 4z =$  
-12. $3 + 9b + 10 =$  
-13. $8x^2 + 2x^2 + 7x =$  
-14. $6xy + 3xy + 3x =$  
-15. $7a + 5c + 4c =$
+4. $5 + m + m + m =$  
+5. Explain the difference between "terms", variable, constant in the expression $3x + 7x + 5$  
 
 ---
 
