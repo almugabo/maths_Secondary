@@ -8,18 +8,25 @@
 
 ---
 
-## 2. Rules of urds 
+## 2. Surds/exponents 
+
+- why does $(\sqrt{a}} equals a power of 1/2
+- A student simplified $\sqrt{32}$ as $2\sqrt{4}$. Explain the error and provide the correct simplification.
+
+---
+
+## 3. rules of surds 
+
+Here are three rules for surds. Use the rules of exponents to show why there are true 
+
 
 | Rule Number | Label                       | Rule                                   | Explanation                                    |
 |-------------|-----------------------------|---------------------------------------|------------------------------------------------|
 | 1           | Product of Surds           | $(\sqrt{a \times b} = \sqrt{a} \times \sqrt{b}\)$ | The square root of a product is the product of the square roots. |
 | 2           | Quotient of Surds          | $(\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}\)$ | The square root of a quotient is the quotient of the square roots. |
 | 3           | Square of a Surd           | $\((\sqrt{a})^2 = \sqrt{a} \times \sqrt{a} = a\)$ | Squaring a square root cancels the root and gives the original number. |
-| 4           | Addition/Subtraction of Like Surds | $(a\sqrt{c} \pm b\sqrt{c} = (a \pm b)\sqrt{c}\)$ | Like terms with the same surd can be added or subtracted by combining their coefficients. |
 
-
-----
-
+---
 
 ## 2. Simplifying Simple Radicals
 Simplify the following radicals:
@@ -97,20 +104,9 @@ Simplify the following expressions by rationalizing the denominator (show your w
 
 ---
 
-## 10. Geometry
-- **Square Area:**  
-  A square has an area of $20$ square units. What is the exact length of one side of the square? Express your answer in simplest radical form.
-  
-- **Right Triangle Hypotenuse:**  
-  A right triangle has legs of length $\sqrt{8}$ and $\sqrt{18}$. What is the exact length of the hypotenuse? Express your answer in simplest radical form. (This connects to the Pythagorean Theorem.)
-
----
-
-## 11. Explain the Process
+## 10. Explain the Process
 Explain, step by step, how to simplify the surd $\sqrt{72}$. Justify each step you take.
 
 ---
 
-## 12. Error Analysis
-A student simplified $\sqrt{32}$ as $2\sqrt{4}$. Explain the error and provide the correct simplification.
 
